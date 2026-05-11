@@ -1,0 +1,27 @@
+[kimyunsup] Sun May 10 16:31:56 2026 +0900 Add files via upload 5ed164f
+[kimyunsup] Sun May 10 16:31:24 2026 +0900 Rename C111030.pdf to 456ui.pdf 5e7c48a
+[Bigboy-OSCAR] Sun May 10 16:04:43 2026 +0900 Add UI b754639
+[hammoooo] Sun May 10 14:12:01 2026 +0900 789Use_Case_Descriptions 추가 783daca
+[hammoooo] Sun May 10 14:08:15 2026 +0900 Merge: .DS_Store 삭제 cdbd664
+[hammoooo] Sun May 10 13:27:59 2026 +0900 UI 추가 0fc9e19
+[Bigboy-OSCAR] Sun May 10 09:16:07 2026 +0900 Add Use case Description 1c940aa
+[Bigboy-OSCAR] Sun May 10 08:26:41 2026 +0900 Add Requirement list 71f2ca0
+[Bigboy-OSCAR] Sun May 10 08:24:44 2026 +0900 Add Requirement list 2774afb
+[Bigboy-OSCAR] Sun May 10 08:10:30 2026 +0900 Add use case diagram e3d8c10
+[Bigboy-OSCAR] Sun May 10 07:30:51 2026 +0900 Ignore .DS_Store a8d4d59
+[hammoooo] Sun May 10 01:54:10 2026 +0900 diagram 추가 1b11a40
+[hammoooo] Sun May 10 01:42:15 2026 +0900 requirement 수정 및 diagram 작성 3c53877
+[hammoooo] Sat May 9 23:57:14 2026 +0900 789 requirement 작성 73f4e2f
+[kimyunsup] Sat May 9 10:36:50 2026 +0900 Add files via upload 7c10695
+[kimyunsup] Sat May 9 10:35:59 2026 +0900 Delete hw1/Use_case_diagrams/C111030.puml bc6920b
+[kimyunsup] Sat May 9 10:33:49 2026 +0900 Add files via upload 0d24e4f
+[kimyunsup] Sat May 9 10:30:30 2026 +0900 Add files via upload c99e575
+[kimyunsup] Sat May 9 10:29:24 2026 +0900 Add files via upload 421330e
+[kimyunsup] Sat May 9 10:27:47 2026 +0900 Add files via upload 3f3aa8e
+[Bigboy-OSCAR] Wed May 6 13:32:55 2026 +0900 hw1_init f1cd527
+[Bigboy-OSCAR] Wed May 6 13:30:03 2026 +0900 hw1_init 52478eb
+[Bigboy-OSCAR] Wed May 6 13:25:05 2026 +0900 hw1_init 3128864
+[Bigboy-OSCAR] Wed May 6 13:22:36 2026 +0900 Merge branch 'main' of https://github.com/Bigboy-OSCAR/SoftEngineering_HW 8a16d9b
+[Bigboy-OSCAR] Wed May 6 13:19:32 2026 +0900 hw1_init 19c1e0c
+[Bigboy-OSCAR] Wed May 6 13:19:16 2026 +0900 hw1_init 6eef1ae
+[Bigboy-OSCAR] Mon May 4 19:00:32 2026 +0900 Initial commit b2a80c7

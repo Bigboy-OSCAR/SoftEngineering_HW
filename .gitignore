@@ -69,3 +69,4 @@ vcpkg_installed/
 Testing/
 .cache/
 .DS_Store
+**/.DS_Store
